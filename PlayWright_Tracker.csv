@@ -1,0 +1,85 @@
+﻿Day,Topic / Task,Resource,Practice Site,Status,Notes
+1,"Install Node.js, VS Code, Playwright",TypeScript Handbook,–,Completed,–
+2,"Learn TypeScript basics (variables, types)",typescriptlang.orgac,–,Completed,–
+3,Async/await practice,YouTube WishInfinite Playlist,–,Not Started,–
+4,Functions & Interfaces in TypeScript,typescriptlang.org,–,Not Started,–
+5,TypeScript project setup with tsconfig.json,typescriptlang.org,–,Not Started,–
+6,Playwright installation & first script,Playwright Docs,demo.playwright.dev,Not Started,–
+7,Open Google & search automation,Playwright Docs,demo.playwright.dev,Not Started,–
+8,"Playwright basics: Browser, Context, Page",Playwright Docs,demo.playwright.dev,Not Started,–
+9,Locators & Assertions,YouTube Tutorial,saucedemo.com,Not Started,–
+10,Handling buttons & inputs,Playwright Docs,the-internet.herokuapp.com,Not Started,–
+11,Dropdowns & checkboxes automation,Playwright Docs,the-internet.herokuapp.com,Not Started,–
+12,Assertions practice,Playwright Docs,saucedemo.com,Not Started,–
+13,Playwright Test Runner basics,Playwright Docs,demo.playwright.dev,Not Started,–
+14,Config files & test organization,Playwright Docs,the-internet.herokuapp.com,Not Started,–
+15,Write 10 small tests,Playwright Docs,the-internet.herokuapp.com,Not Started,–
+16,Page Object Model (POM) intro,YouTube Tutorial,automationpractice.com,Not Started,–
+17,Create POM for login page,Playwright Docs,saucedemo.com,Not Started,–
+18,Fixtures & Hooks basics,Playwright Docs,demo.playwright.dev,Not Started,–
+19,Implement beforeEach/afterEach hooks,Playwright Docs,the-internet.herokuapp.com,Not Started,–
+20,Reusable test data setup,Playwright Docs,saucedemo.com,Not Started,–
+21,Handle alerts & dialogs,Playwright Docs,the-internet.herokuapp.com,Not Started,–
+22,Working with frames,Playwright Docs,the-internet.herokuapp.com,Not Started,–
+23,Multiple tabs automation,Playwright Docs,demo.playwright.dev,Not Started,–
+24,File upload automation,Playwright Docs,saucedemo.com,Not Started,–
+25,File download automation,Playwright Docs,saucedemo.com,Not Started,–
+26,Screenshots & videos,Playwright Docs,demo.playwright.dev,Not Started,–
+27,API testing basics,Playwright Docs,reqres.in,Not Started,–
+28,Network interception & mocking,Playwright Docs,reqres.in,Not Started,–
+29,Authentication with cookies,Playwright Docs,saucedemo.com,Not Started,–
+30,Authentication with tokens,Playwright Docs,saucedemo.com,Not Started,–
+31,Parallel execution basics,Playwright Docs,demo.playwright.dev,Not Started,–
+32,Retries & flaky test handling,Playwright Docs,the-internet.herokuapp.com,Not Started,–
+33,CI/CD integration (GitHub Actions),YouTube Tutorial,GitHub,Not Started,–
+34,HTML reporting setup,Playwright Docs,demo.playwright.dev,Not Started,–
+35,Allure reporting setup,YouTube Tutorial,demo.playwright.dev,Not Started,–
+36,Debugging Playwright tests,Playwright Docs,saucedemo.com,Not Started,–
+37,Advanced debugging with trace viewer,Playwright Docs,demo.playwright.dev,Not Started,–
+38,Handling slow networks,Playwright Docs,reqres.in,Not Started,–
+39,Mocking API responses,Playwright Docs,reqres.in,Not Started,–
+40,Advanced POM patterns,YouTube Tutorial,automationpractice.com,Not Started,–
+41,Framework design principles,YouTube Tutorial,GitHub,Not Started,–
+42,Reusable utilities creation,Playwright Docs,demo.playwright.dev,Not Started,–
+43,Data-driven testing,Playwright Docs,saucedemo.com,Not Started,–
+44,Environment-specific configs,Playwright Docs,demo.playwright.dev,Not Started,–
+45,CI/CD pipeline optimization,YouTube Tutorial,GitHub,Not Started,–
+46,Interview Q&A practice set 1,GitHub resources,–,Not Started,–
+47,Interview Q&A practice set 2,GitHub resources,–,Not Started,–
+48,Interview Q&A practice set 3,GitHub resources,–,Not Started,–
+49,Framework refactoring,Playwright Docs,GitHub,Not Started,–
+50,Framework documentation,GitHub,–,Not Started,–
+51,Final project planning,GitHub,–,Not Started,–
+52,Automate login flow,saucedemo.com,saucedemo.com,Not Started,–
+53,Automate search flow,saucedemo.com,saucedemo.com,Not Started,–
+54,Automate add-to-cart flow,saucedemo.com,saucedemo.com,Not Started,–
+55,Automate checkout flow,saucedemo.com,saucedemo.com,Not Started,–
+56,Automate order confirmation,saucedemo.com,saucedemo.com,Not Started,–
+57,Automate logout flow,saucedemo.com,saucedemo.com,Not Started,–
+58,End-to-end test suite creation,Playwright Docs,saucedemo.com,Not Started,–
+59,Run tests in parallel,Playwright Docs,demo.playwright.dev,Not Started,–
+60,Generate reports,Playwright Docs,demo.playwright.dev,Not Started,–
+61,Upload project to GitHub,GitHub,–,Not Started,–
+62,CI/CD integration with GitHub Actions,YouTube Tutorial,GitHub,Not Started,–
+63,Interview prep: framework design,GitHub resources,–,Not Started,–
+64,Interview prep: debugging,GitHub resources,–,Not Started,–
+65,Interview prep: CI/CD,GitHub resources,–,Not Started,–
+66,Mock interview practice 1,–,GitHub,Not Started,–
+67,Mock interview practice 2,–,GitHub,Not Started,–
+68,Mock interview practice 3,–,GitHub,Not Started,–
+69,Portfolio polishing,GitHub,–,Not Started,–
+70,Final project review,GitHub,–,Not Started,–
+71,Authentication advanced flows,Playwright Docs,saucedemo.com,Not Started,–
+72,Network interception advanced,Playwright Docs,reqres.in,Not Started,–
+73,Framework scalability improvements,GitHub,–,Not Started,–
+74,Interview prep: API testing,GitHub resources,–,Not Started,–
+75,Interview prep: reporting,GitHub resources,–,Not Started,–
+76,Mock interview practice 4,–,GitHub,Not Started,–
+77,Mock interview practice 5,–,GitHub,Not Started,–
+78,Mock interview practice 6,–,GitHub,Not Started,–
+79,Portfolio finalization,GitHub,–,Not Started,–
+80,Final project presentation,GitHub,–,Not Started,–
+81,Interview prep: POM,GitHub resources,–,Not Started,–
+82,Interview prep: fixtures/hooks,GitHub resources,–,Not Started,–
+83,Interview prep: parallel execution,GitHub resources,–,Not Started,–
+84,Mock interview practice 7,–,GitHub,Not Started,
