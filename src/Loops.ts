@@ -67,3 +67,15 @@ if(input === result2)
 else
     console.log("not palidrome..");
 console.log("orey charii....count entho telusa.."+count3);
+
+//vowels count using for of loop
+let word:string = "dragon";
+let vowels2:string = "AEIOUaeiou";
+let count4:number=0;
+for(let i of word){
+    for(let j of vowels2){
+        if(i===j)
+            count4++;
+    }
+}
+console.log("the count using for off loop is:  "+count4);
